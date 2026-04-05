@@ -1,0 +1,9 @@
+# ============================================================
+# RENAME THIS FILE FROM "gitignore.txt" TO ".gitignore"
+# (add a dot at the start, remove the .txt extension)
+# ============================================================
+
+.env.local
+.env
+node_modules/
+.next/
